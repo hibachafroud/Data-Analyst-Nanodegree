@@ -62,7 +62,8 @@ More than 57% of flight can make early or on-time take off .
 
 On fridays more than 50% of the flight make delay.
 
-[!img](fig/delay_day.png)
+![img](fig/delay_day.png)
+
 
 ####  Most visited airport?
 
@@ -72,19 +73,22 @@ Atlanta Airport is on the hight visited airport with 267,704 total flights , its
 
 Southwest Airlines Co. had the most registered flights (393,732flights) but when compared to airlines delay, it had the least percentage of on-time and early flights.
 
-[!img](fig/flight_airline.png)
+![img](fig/flight_airline.png)
 
 #### Delays per Airlines?
 
 When looking at delays, both Hawaiian Airlines Inc. and Aloha Airlines Inc hlow delay percentage while the both have low flights resigtrations.
 
-[!img](fig/delay_airline.png)
+![img](fig/delay_airline.png)
 
 
 
 ## Key Insights for Presentation
 
 
-For the presentation, I focus on just the number of flights per days of week ,month ,hours of the day and airlines.
+For the presentation, I focused on just the number of flights per days of week ,month ,hours of the day and airlines.
+Afterwards, on early flighs and the desribution of delay values, delays per days,hours and per airlines.
 
-Afterwards, I focus on early flighs and the desribution of delay values, delays per days,hours and per airlines.
+## Limitations
+
+* We can also try and work on other dataset since we don't have data to all months of the year .
