@@ -6,7 +6,7 @@ What can we say about the success of a movie before it is released? Are there ce
 
 This is a great place to start digging in to those questions, with data on the plot, cast, crew, budget, and revenues of several thousand films.
 
-In this project i choose to work with TMDb movie dataset .It This contains information about 5000 movies collected from The Movie Database (TMDb), including user profit and revenue. Before jumping into analysing the data, i did some data wrangling and data cleaning .
+In this project i choose to work with [TMDb movie dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). It This contains information about 5000 movies collected from The Movie Database (TMDb), including user profit and revenue. Before jumping into analysing the data, i did some data wrangling and data cleaning .
 
 ## Conclusion
 
