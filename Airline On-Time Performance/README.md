@@ -14,7 +14,7 @@ The data that I worked consists of 4 csv files;
 The dataset can be found here(https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009).
 Following this link ,i found data about flight arrival and departure details for all commercial flights on major carriers within the USA, from October 1987 to April 2008. This is a large dataset containing nearly 120 million records in total and takes 1.5G .So for memory problem i choose to work with the latest date available which is 2008.
 
-Fro the data wrangling part ,i did Data assessment.I found some quality issues and to solve them i drop Nan values, duplicates and unnecessary columns and as for tidiness issues i  changed erroneous datatypes.
+For the data wrangling part,I found some quality issues and to solve them i drop Nan values, duplicates and unnecessary columns and as for tidiness issues i  changed erroneous datatypes.
 
 
 
@@ -91,4 +91,9 @@ Afterwards, on early flighs and the desribution of delay values, delays per days
 
 ## Limitations
 
-* We can also try and work on other dataset since we don't have data to all months of the year .
+* There are still more insights to be drawn from the complete dataset for 1987 to 2008. It is advised that tools for working with big data should be employed due to the large size of the combined data and its effect on memory.
+* Further analysis should look into questions: 
+  * Do older planes suffer more delays?
+  * How well does weather predict plane delays?
+  * Can you detect cascading failures as delays in one airport create delays in others? Are there critical links in the system?
+
