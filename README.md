@@ -8,13 +8,18 @@ This repo contains the case studies and projects carried during the course of th
 
 ## Contents
 
-### [P1: Investigate-Kaggle-TMDB-movie-dataset]([https://goo.gl/dEZ1VR](https://github.com/hibachafroud/Data-Analyst-Nanodegree/tree/main/Investigate-Kaggle-TMDB-movie-dataset))
-Using bike-rental data provided by Bay Area Bike Share, insights on ridership patterns are discovered. The data investigation is shared using a Jupyter Notebook.
+### [P1: Investigate-Kaggle-TMDB-movie-dataset](https://github.com/hibachafroud/Data-Analyst-Nanodegree/tree/main/Investigate-Kaggle-TMDB-movie-dataset)
 
-### [P2: WeRateDogs]([https://goo.gl/eaafuT](https://github.com/hibachafroud/Data-Analyst-Nanodegree/tree/main/WeRateDogs))
-In this project, Stroop Effect, a classic result of experimental psychology is verified using descriptive statistics and statistical testing.
+Investigation TMDB movie dataset in order to get useful information for analysis.
 
-### [P3: Airline On-Time Performance]([https://goo.gl/GDg7H5](https://github.com/hibachafroud/Data-Analyst-Nanodegree/tree/main/Airline%20On-Time%20Performance))
-Investigation of a curated dataset sourced from Lahman's Baseball Database is done to study player-performance metrics for their significance in match-winning contributions & player's salary.
+### [P2: WeRateDogs](https://github.com/hibachafroud/Data-Analyst-Nanodegree/tree/main/WeRateDogs)
+
+This project is about wrangling, analysing and visualizing data from various sources.
+
+### [P3: Airline On-Time Performance](https://github.com/hibachafroud/Data-Analyst-Nanodegree/tree/main/Airline%20On-Time%20Performance)
+
+This project is about data wrangling and using data visualizations tools to get useful information the can be used for analysis.
+
+
 
 
